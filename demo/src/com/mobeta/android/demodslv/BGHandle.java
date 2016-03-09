@@ -9,6 +9,7 @@ public class BGHandle extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.bg_handle_main);
+        //gkkhhhjl
     }
 
 }
